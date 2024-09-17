@@ -1,0 +1,1 @@
+KW, KA, KE, KF, QW, QA, QE, QF, KW, 10W, QE, QF, QA, KA, 9E, 9A, 9F, 9W, 8W, 8F, 8E, 8A, 7A, 7E, 7F, KE, 10F, 10E, 10A, 7W, 6W, 6F, 6E, 6A, 5A, 5E, 5F, 5W, 4F, 4W, 4E, 4A, 3E, 3A, 3W, 3F, 2F, 2E, 2W, 2A, PA, PE, PF, PW, NE, NA, NF, NW, RA, RE, RF, RW, BA, BW, BF, BE
